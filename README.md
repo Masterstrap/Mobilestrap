@@ -1,4 +1,4 @@
-# 📱 Masterstrap Script (v2.0)
+# 📱 Masterstrap Script (v3.0)
 
 <p align="center">
   <b>A premium, high-performance configuration engine and environment customizer for mobile devices.</b>
